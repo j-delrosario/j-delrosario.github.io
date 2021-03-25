@@ -13,7 +13,7 @@ Born: Vancouver
 Residing: Toronto  
 Happy to live: Anywhere :)  
 
-[Resume](https://github.com/j-delrosario/j-delrosario.github.io/blob/main/resume.pdf)
+<a href="/resume.pdf" download>Resume</a>
 
 
 [jekyll-organization]: https://github.com/jekyll
