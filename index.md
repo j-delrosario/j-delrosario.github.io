@@ -7,8 +7,7 @@
 #
 layout: home
 categories: ""
-author:
-- ""
+author: ""
 meta: ""
 ---
 
