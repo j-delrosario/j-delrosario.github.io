@@ -1,12 +1,15 @@
 title: Portfolio
 author:
-  name: GitHub User
+  name: Contact
   email: jordan.delrosario@mail.utoronto.ca
-description: > # this means to ignore newlines until "show_excerpts:"
-  Hosted by Github Pages.\n
-  Theme forked from Jekyll-theme-minima.
+description:
+  Hosted by Github Pages.
+description2:
+  Theme forked from
+description2-link:
+  Jekyll-theme-minima
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this

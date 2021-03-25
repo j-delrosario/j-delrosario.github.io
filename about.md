@@ -4,7 +4,8 @@ title: Jordan Del Rosario
 permalink: /about/
 ---
 
-University of Toronto, graduating 2021.  
+University of Toronto.  
+Graduating 2021.  
 Computer Science major.  
 Full Stack Developer.  
 

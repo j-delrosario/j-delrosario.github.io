@@ -280,3 +280,51 @@ table {
             -ms-overflow-style: -ms-autohiding-scrollbar;
   }
 }
+
+@media screen and (min-width:860px){
+  .container-grid-item {
+    width:800px;
+    height:230px;
+    left:0;
+    right:0;
+    margin:auto;
+  }
+  .iframe-item {
+    width: 740px;
+    height: 415px;
+  }
+  .iframe-grid-item {
+    width: 370px;
+    height: 210px;
+  }
+}
+
+@media screen and (max-width:860px){
+  .container-grid-item {
+    width:400px;
+    height:460px;
+    left:0;
+    right:0;
+    margin:auto;
+  }
+  .container-single-item {
+    width:400px;
+    height:460px;
+    left:0;
+    right:0;
+    margin:auto;
+  }
+  .iframe-item {
+    width: 370px;
+    height: 210px;
+    left:0;
+    right:0;
+    margin:auto;
+  }
+  .iframe-grid-item {
+    width: 370px;
+    height: 210px;
+  }
+}
+
+
